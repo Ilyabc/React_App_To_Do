@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/React_App_To_Do/static/css/main.4acb44c7.css",
-    "main.js": "/React_App_To_Do/static/js/main.93a301d5.js",
-    "static/js/787.28cb0dcd.chunk.js": "/React_App_To_Do/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/React_App_To_Do/static/css/main.f5d18574.css",
+    "main.js": "/React_App_To_Do/static/js/main.de20c9b3.js",
+    "static/media/bg-desktop-light.jpg": "/React_App_To_Do/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/icon-yes.svg": "/React_App_To_Do/static/media/icon-yes.c8e1118873a336ecc22db97446eaaf23.svg",
     "index.html": "/React_App_To_Do/index.html",
-    "main.4acb44c7.css.map": "/React_App_To_Do/static/css/main.4acb44c7.css.map",
-    "main.93a301d5.js.map": "/React_App_To_Do/static/js/main.93a301d5.js.map",
-    "787.28cb0dcd.chunk.js.map": "/React_App_To_Do/static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/icon-moon.svg": "/React_App_To_Do/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "main.f5d18574.css.map": "/React_App_To_Do/static/css/main.f5d18574.css.map",
+    "main.de20c9b3.js.map": "/React_App_To_Do/static/js/main.de20c9b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4acb44c7.css",
-    "static/js/main.93a301d5.js"
+    "static/css/main.f5d18574.css",
+    "static/js/main.de20c9b3.js"
   ]
 }
